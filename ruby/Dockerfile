@@ -1,4 +1,4 @@
-FROM gcc:latest
+FROM ruby:2.3
 
 RUN set -ex; \
 	\
